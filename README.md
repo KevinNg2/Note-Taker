@@ -5,9 +5,10 @@
 ![Badge for issues](https://camo.githubusercontent.com/ce3e5fef0d9a3d4226996fb4bd8a7a686b46032aba0d5652e12abee192c77d69/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f6a706436312f7465616d2d70726f66696c652d67656e657261746f72)
 ![Badge for Javascript](https://img.shields.io/badge/-Javascript-yellow)
 ![Badge for Node.js](https://img.shields.io/badge/-Node.js-yellowgreen)
-![Badge for Inquirer](https://img.shields.io/badge/-inquirer-red)
+![Badge for Jest](https://img.shields.io/badge/jest-jest-brightgreen)
 ![Badge for Json](https://img.shields.io/badge/-Json-blue)
-![Badge for Screencastify](https://camo.githubusercontent.com/d54408ad4380fbd4dac972ca2699da5aec0cfca076470142ab31fdab74c321bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d73637265656e636173746966792d6c6967687467726579)
+![Badge for Express(https://img.shields.io/badge/-express-brightgreen)
+
 
 
 Badges provided by [shields.io](https://shields.io/)
