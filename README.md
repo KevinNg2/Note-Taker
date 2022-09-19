@@ -16,6 +16,9 @@ Badges provided by [shields.io](https://shields.io/)
 ## Description
 This application was designed to allow users to read and write notes. The application uses Express.js to connect client-side server and back-end server with Node.js for it's file system. The application is deployed on Heroku.
 
+Screenshot of live application:
+![Note-Taker](public/assets/note-taker%20screenshot.png)
+
 ## Link to the App
 * ['Note Taker- Github'](https://github.com/KevinNg2/Note-Taker)
 * ['Heroku Live Link'](https://note-taker3292.herokuapp.com/)
