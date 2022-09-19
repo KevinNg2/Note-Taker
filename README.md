@@ -5,7 +5,7 @@ This application was designed to allow users to read and write notes. The applic
 
 ## Link to the App
 * ['Note Taker- Github'](https://github.com/KevinNg2/Note-Taker)
-* ['Heroku Live Link']()
+* ['Heroku Live Link'](https://note-taker3292.herokuapp.com/)
 
 ## Installation 
 The user will need to clone the repository from Github and download Node.js and Express.js
